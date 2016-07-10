@@ -1,7 +1,7 @@
 {
   "name": "andes",
   "version": "1.0.0",
-  "description": "A library to unflatten HTML markup to greatly facilitate styling",
+  "description": "A library that unflattens HTML documents and generate the minimum amount of wrapper elements to enable infinite styling options",
   "main": "index.js",
   "scripts": {
     "test": "mocha -test"
