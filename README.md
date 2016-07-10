@@ -1,6 +1,6 @@
 # andes [![Build Status](https://travis-ci.org/olivierlesnicki/andes.svg?branch=master)](https://travis-ci.org/olivierlesnicki/andes)
 
-Shallow nested HTML documents often limit styling options. *andes* unflattens HTML documents and generate the minimum amount of wrapper elements to enable infinite styling options.
+Shallow nested HTML documents often limit styling options. **andes** unflattens HTML documents and generate the minimum amount of wrapper elements to enable infinite styling options.
 
 ```
 npm install --save andes
