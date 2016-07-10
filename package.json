@@ -4,7 +4,7 @@
   "description": "A library to unflatten HTML markup to greatly facilitate styling",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha -test"
   },
   "repository": {
     "type": "git",
