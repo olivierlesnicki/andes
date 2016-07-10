@@ -11,7 +11,16 @@ npm install --save andes
 ```js
 const andes = require('andes');
 const html = '<h1>Heading</h1><p>Lorem ipsum dolore</p>';
+
 andes(html);
+// <article class='article-h1'>
+//   <section class='container-h1'>
+//     <h1>Heading</h1>
+//     <div class='content-h1'>
+//       <p>Lorem ipsum dolore</p>
+//     </div>
+//   </section>
+// </article>
 ```
 
 ### Example
